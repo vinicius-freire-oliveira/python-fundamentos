@@ -1,5 +1,7 @@
 # 🐍 Python Fundamentos
 
+🇺🇸 English: [README.md](README.md)
+
 Repositório dedicado ao estudo e prática da linguagem Python, organizado em módulos progressivos desde os fundamentos da linguagem até conceitos de Programação Orientada a Objetos.
 
 ---
